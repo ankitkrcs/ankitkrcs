@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/iam_ankit21" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ankit21?logo=twitter&style=for-the-badge" alt="iam_ankit21" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Style Transfer**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **Neural Style Transfer**
-
 - 💬 Ask me about **Data Structure and Algorithm**
 
 - 📫 How to reach me **amaddheshiya637@gmail.com**
